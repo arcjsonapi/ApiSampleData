@@ -155,7 +155,7 @@
       "street": "fountains lane",
       "suite": "B902",
       "city": "pune",
-      "zipcode": "400001,
+      "zipcode": "400001",
       "geo": {
         "lat": "-14.3990",
         "lng": "-120.7677"
